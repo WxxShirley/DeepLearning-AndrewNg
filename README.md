@@ -14,14 +14,16 @@ This repo contains my code for [Deep Learning Specialization](https://www.course
   
  * Course 2 : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
  
- Coming soon!
+   Coming soon!
  
  * Course 3 : Structuring Machine Learning Projects
  
- There is no PA for this course. 
+   There is no PA for this course. 
  
  * Course 4 : Convolutional Neural Networks
   
- Coming soon!
+   Coming soon!
  
  * Course 5 : Sequence Models
+   
+   Coming soon!
