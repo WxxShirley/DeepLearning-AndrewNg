@@ -14,20 +14,20 @@ This repo contains my code for [Deep Learning Specialization](https://www.course
   
  * Course 2 : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
     * Week1-PA1 [Initialization](https://github.com/WxxShirley/DeepLearning-AndrewNg/blob/master/C2W1Initialization.py)
-    
-       Zero Initialization \ Random Initialization \ He Initialization
+       * Zero Initialization 
+       * Random Initialization 
+       * He Initialization
     * Week1-PA2 [Regularization](https://github.com/WxxShirley/DeepLearning-AndrewNg/blob/master/C2W1reg.ipynb)
-    
-       L2 Regularization \ Dropout
+       * L2 Regularization
+       * Dropout
     * Week1-PA3 [Gradient Checking](https://github.com/WxxShirley/DeepLearning-AndrewNg/blob/master/C2W1GradientChecking.py)
-    
-       Gradient Checking in 1D and N-dimensions
+       * Gradient Checking in 1D and N-dimensions
     * Week2-PA4 [Optimization Methods](https://github.com/WxxShirley/DeepLearning-AndrewNg/blob/master/C2W2Optimization.py)
-    
-       Mini-Batch Gradient Descent \ Momentum \ Adam
+       * Mini-Batch Gradient Descent 
+       * Momentum
+       * Adam
     * Week3-PA5 [Tensorflow Tutorial](https://github.com/WxxShirley/DeepLearning-AndrewNg/blob/master/C2W3tensorflow_.py)
-    
-       Build a NN with Tensorflow
+       *  Build a NN with Tensorflow
 
  * Course 3 : Structuring Machine Learning Projects
  
