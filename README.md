@@ -15,8 +15,6 @@ This repo contains my code for [Deep Learning Specialization](https://www.course
    There is no PA for this course. 
  
  * Course 4 : [Convolutional Neural Networks](https://github.com/WxxShirley/DeepLearning-AndrewNg/tree/master/C4)
-  
-   Coming soon
  
  * Course 5 : Sequence Models
    
